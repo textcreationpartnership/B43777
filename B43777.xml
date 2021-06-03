@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered against the bill entituled, An act for removing of doubts and preventing of controversies, concerning royal mines and that the King may have the preemption.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43777</idno><idno type="EEBO-CITATION">625106354</idno>
+  <idno type="VID">211326</idno>
+  <idno type="EEBO-PROQUEST">2248529588</idno>
+  
+            <idno type="OCLC"> 625106354</idno>
+            <idno type="OCLC">ocn 625106354</idno>
+            <idno type="STC">Wing R525C</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43777)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211326)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2970:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered against the bill entituled, An act for removing of doubts and preventing of controversies, concerning royal mines and that the King may have the preemption.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Mines and mineral resources --  England --  Early works to 1800.</term>
+               <term type="topical_term">Mining law --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:211326:1"/>
+            <pb facs="tcp:211326:2"/>
+            <head>REASONS Humbly Offered against the BILL Entituled, <hi>An ACT for Removing of Doubts and preventing of Controversies,</hi> CONCERNING ROYAL MINES, <hi>And that the</hi> KING <hi>may have the Preemption.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HEIR Majesties Predecessors, Kings and Queens of <hi>England,</hi> have always been, by the <hi>antient</hi> Laws of this Land, entituled to <hi>all Mines of Gold and Silver,</hi> in this Their Majesties <hi>Kingdom of England,</hi> as a <hi>known</hi> part of their Hereditary Revenue.</p>
+            <p>As this <hi>inherent</hi> Right of the Kings of this Realm to <hi>Royal Mines,</hi> appears to have been one of the <hi>most antient,</hi> so it remains one of the <hi>most indisputable</hi> Branches of the Prerogative; and the claim and enjoyment of it, by Sovereign Princes, hath <hi>always</hi> been undisturb'd and un<g ref="char:EOLhyphen"/>interrupted in all Ages and in all Nations.</p>
+            <p>This Branch of the Prerogative is no more <hi>valuable</hi> to their Majesties, than it is <hi>advantagious</hi> to the Kingdom. The Interest that accrews to Their Majesties, is doubled by the Benefit which arises from thence to the Kingdom: For this Revenue will not be in the nature of <hi>Customs</hi> only, where Commodities are only brought in, and the Money of the Nation never <hi>augmented</hi> by them, and often <hi>decreased</hi> in lieu of them. But the Riches of Their Majesties Kingdom will be encreas'd, by <hi>Silver</hi> of <hi>Domestic</hi> Growth; Their Subjects will be employ'd, and paid; and Their Exchequer fill'd, without the least diminution of the currant Coin of the Nation. Whereas otherwise the <hi>Oar</hi> and <hi>Bullion</hi> in <hi>England</hi> will be <hi>Transported,</hi> and other Nations en<g ref="char:EOLhyphen"/>riched with the intrinsick Wealth of this Kingdom.</p>
+            <p>This <hi>Act</hi> wholly destroys the Prerogative in <hi>Royal Mines,</hi> and gives it nothing in lieu of it, but a <hi>seeming</hi> Right of Preemption, which is in its self, as restrained in the Act, wholly impracticable; and if practicable, is no Compensation.</p>
+            <p>The Revenues of the King, which depend on many Branches of the Prerogative, have been so constantly maintain'd, and the People so concern'd in the defence of them, in ease of themselves, that never any of them have been touch'd in <hi>former</hi> Reigns, without securing a sufficient equivalent to the Crown. And there are no other than false and unwarrantable Suggestions offer'd in the Preamble of this Bill, for the alteration of the known and antient Law of this Nation now, and for di<g ref="char:EOLhyphen"/>minishing the Hereditary Revenues of the Crown.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="text">
+                        <head>The <hi>Preamble</hi> of the <hi>Act,</hi> recites That —</head>
+                        <p>Whereas <hi>by a Clause in one Act Parliament, made in the</hi> 1st. <hi>Year of their Majesties Reign; Entituled, an Act to repeal the Statute, made in the</hi> 5. <hi>Year of K.</hi> Hen. IV. <hi>against the multiplying of</hi> Gold <hi>and</hi> Silver. <hi>It is amongst other things</hi> Enacted, <hi>that no Mine of</hi> Tinn, Copper, Iron <hi>or</hi> Lead, <hi>shall hereafter be adjudged reputed or taken to be a</hi> Royal Mine, <hi>although</hi> Gold <hi>or</hi> Silver <hi>may be extracted out of the same. But notwithstanding the good Provision by the said Statute, to prevent the discouraging Their Majesties good Subjects, who have Mines of</hi> Copper, Tinn, Iron <hi>or</hi> Lead <hi>in their Soils, from Digging and Opening the same. Many Doubts and Questions have risen upon the said Statute, whereby great Suits and Troubles have risen to many Owners and Proprietors of such Mines.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Whereas in truth, there is <hi>no</hi> Provision made by that Act. No Doubts and Questions have risen concerning the same, nor any Suits and Troubles to <hi>many</hi> Own<g ref="char:EOLhyphen"/>ers and Proprietor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Royal Mines</hi> thereby.</p>
+            <p>First, The good Provision made by that Statute, doth not <hi>alter, change,</hi> or <hi>abridge</hi> the antient Rights of their Majesties in <hi>Mines Royal,</hi> nor was intended to make any alteration in the Law, but to leave <hi>Royal Mines</hi> in the same state as they were before; so that Mines of <hi>Copper, Tinn, Lead</hi> or <hi>Iron,</hi> which before the making of that Act did belong to the Subject, should so continue, and should not be reputed <hi>Royal Mines;</hi> tho by the <hi>new</hi> and <hi>extraordinary</hi> Skill of extracting <hi>Gold</hi> and <hi>Silver,</hi> and the Art of <hi>Multiplication,</hi> which the Act made lawful to put in Practise, <hi>Gold</hi> and <hi>Silver</hi> might be drawn out in greater Quantities than before. And this is the plain sense of that Act, and so taken by the Court since, without any Doubt or Scruple concerning it.</p>
+            <p>Secondly, No Proprietor, or pretended Proprietor hath been sued in <hi>England,</hi> on the account of <hi>Mines Royal,</hi> since the making of that Act, but Sir <hi>Carbery Price;</hi> In that Cause Two Verdicts have been obtained for Sir <hi>Carbery,</hi> upon the <hi>difference</hi> of the Testimony on both sides. For many unquestionable <hi>Refiners</hi> and others, Witnesses on behalf of the King, swore, that out of <hi>Oar, chosen</hi> and <hi>taken up</hi> by Sir <hi>Carbery</hi>'s <hi>own</hi> Commissioners, <hi>Sealed</hi> and <hi>Delivered</hi> into Court by them, they, with<g ref="char:EOLhyphen"/>out any <hi>extraordinary Art</hi> or <hi>Mixture,</hi> by the <hi>ordinary</hi> method of Refining, did extract 40<hi>l.</hi> of <hi>Silver</hi> in value, <hi>per</hi> Tun proportionably and upwards; and some <hi>Essay-Masters (whose proper business is not Refining)</hi> swore, that they could not according to their Skill, extract above 3<hi>l.</hi> proportionably out of a Tun, of the same <hi>Oar.</hi> And this Proof being barely <hi>Negative,</hi> and depending on the <hi>pretended</hi> Skill of the said <hi>Say-Masters,</hi> was credited by the said <hi>Juries,</hi> against the <hi>positive</hi> Evidence of <hi>Refiners</hi> and others; and when it was offered, to have a Tryal made of the said <hi>Oar,</hi> taken up by Commissioners on <hi>both</hi> sides, by Refiners on <hi>both</hi> sides, in the <hi>presence</hi> of the Jury, or of Commissioners; Sir <hi>Carbery Price</hi> hath declined that plain Method of ascertaining the difference of the Evidence, and doth insist on his <hi>Privilege,</hi> as a Bar to the Action, and to the fair Tryal of the Matter in Controversie, tho he hath once wav'd it in that very Action under his <hi>Hand</hi> and <hi>Seal;</hi> and since the said Trial, the former method of Trial of the <hi>Oar,</hi> taken up by Sir <hi>Carbery</hi>'s Commissioners, hath been <hi>succesfully</hi> attempted, and managed by indifferent Refiners, before Commissioners appointed by Their Majesties, to their full Satisfaction.</p>
+            <p>It is Enacted, <hi>That all Proprietors of</hi> Mines <hi>in</hi> England, Ireland <hi>or</hi> Wales, <hi>wherein any</hi> Oar <hi>now is, or hereafter shall be found, may hold, enjoy and digg the said</hi> Mine, <hi>notwithstanding such</hi> Mine <hi>or</hi> Oar <hi>shall be claimed to be a</hi> Royal Mine.</p>
+            <p>Hereby the <hi>antient indisputable</hi> Right of the Crown, is wholly taken away, and lodg'd in the Lord of the Soil. And not only the King's Inheritance and future Interest in all <hi>Royal Mines</hi> is precluded, but the Act hath a retrospect, and <hi>divests</hi> Their Majesties, and the Purchasers under them, of several <hi>Mines</hi> already open'd, and which they have for many Ages <hi>quietly</hi> enjoy'd. For this Act breaks in, not only upon Their Majesties <hi>undoubted</hi> Prerogative, but upon the <hi>Property</hi> of several Persons that claim under the Crown for a <hi>valuable</hi> Consideration, and are <hi>now</hi> actually in Possession of several <hi>Royal Mines,</hi> which they have drein'd, and hitherto work'd at <hi>vast</hi> Expence: And Their Majesties will not only loose the reserv'd Rent, but the Lessee's themselves will be divested of the future Profits, which may, and ought lawfully to accrew to them, after their <hi>vast</hi> Labour and Charges.</p>
+            <p>The Crown never did, nor will, deny the Proprietor a Lease of the <hi>Richest Mines</hi> in <hi>England,</hi> nor cannot refuse him a Third Share by the By-Laws of the Com<g ref="char:EOLhyphen"/>pany, if he will submit to work it in this Nation, and to bring the <hi>Bullion</hi> to the <hi>Tower</hi> to be Coined. And the sole End of the Erection of the <hi>Company for Mines Royal;</hi> and their Care therein is, that the King may have a reasonable Rent out of the <hi>Mines,</hi> and that the <hi>Oar</hi> may not be Transported into <hi>other Nations,</hi> but work'd in <hi>England,</hi> and the <hi>Bullion</hi> thereof Coined there. And Their Majesties never did deny, or refuse, the Proprietor of the Soil a <hi>reasonable</hi> Share. In the <hi>Royal Mine</hi> found out in Sir <hi>Carbery</hi>'s Land, if he had not thought fit rather to joyn with certain Persons his Partners, and to allow them shares thereof, in <hi>opposition</hi> to His Majesty's <hi>clear</hi> and <hi>undoubted</hi> Title.</p>
+            <p>Provided <hi>always, and</hi> be it Enacted <hi>and Declared, That Their Majesties, Their Heirs and Successors, and all claiming any</hi> Royal Mines <hi>under them, shall and may have the</hi> Oar <hi>of any such</hi> Mine, <hi>or</hi> Mines, <hi>in any part of the said Kingdom of</hi> England, <hi>or</hi> Ireland, <hi>or Dominion of</hi> Wales, <hi>or Town of</hi> Ber<g ref="char:EOLhyphen"/>wick <hi>upon</hi> Tweed, (<hi>other than</hi> Tin Oar, <hi>in the County of</hi> Devon, <hi>and</hi> Cornwal,) <hi>paying to the Proprietors, or Owners, of the said</hi> Mine, <hi>or</hi> Mines, <hi>wherein such</hi> Oar <hi>is, or shall be found<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> within</hi> 15 <hi>Days after the said</hi> Oar <hi>is, or shall be raised, and laid upon the Baults of the said</hi> Mine <hi>or</hi> Mines, <hi>and before the same be removed from thence, the states following, (that is to say,) for all</hi> Oar <hi>wherein is</hi> Copper <hi>the rate of</hi> 16<hi>l.</hi> per <hi>Tun: And for all</hi> Oar <hi>wherein there is</hi> Tin <hi>the rate of</hi> 40 <hi>l.</hi> per <hi>Tun: And for all</hi> Oar <hi>wherein there is</hi> Iron <hi>after the rate of</hi> 40 <hi>l.</hi> per <hi>Tun: And for all</hi> Oar <hi>wherein there is</hi> Lead <hi>the rate of</hi> 9 <hi>l.</hi> per <hi>Tun, or otherwise. That it shall and may be Lawful, for the Owners, or Proprietors, of the said</hi> Mine <hi>or</hi> Mines, <hi>wherein such</hi> Oar <hi>is, are, or shall be found, to sell and dispose of the said</hi> Oar, <hi>to his, or their own Vses, any Law, Statute, or Custom to the contrary notwithstanding.</hi>
+            </p>
+            <list>
+               <item>I. It is to be observed, that this propos'd Compensation, being so restrained in time, is altogether Impracticable, in Places as far distant from <hi>London</hi> as <hi>Mines</hi> ge<g ref="char:EOLhyphen"/>nerally are.</item>
+               <item>II. It is no Compensation if Practicable, because it makes the King pay for that which is his own, and that at <hi>double</hi> the price, than any other private Person can purchase it; and this is the only equivalent granted by the said Act to Their Majesties. That in respect of their antient and undisputable Inheritance, they shall be Privi<g ref="char:EOLhyphen"/>leg'd, if they make very sudden Payments, to buy that <hi>Oar</hi> for 9<hi>l. per</hi> Tun, which is ordinarily sold to Their Subjects for 4 <hi>l.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Wherefore it is humbly Pray'd, That the said Bill may not Pass <gap reason="illegible" resp="#uom" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> an <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
